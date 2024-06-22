@@ -1,0 +1,10 @@
+Log Type,Timestamp,Message
+INFO,2024-06-21T10:00:00,Application started successfully.
+ERROR,2024-06-21T10:05:00,Null exception occurred.
+WARNING,2024-06-21T10:10:00,Deprecated API usage.
+INFO,2024-06-21T10:15:00,User login successful.
+ERROR,2024-06-21T10:20:00,Database connection failed.
+INFO,2024-06-21T10:25:00,User logged out.
+WARNING,2024-06-21T10:30:00,Memory usage is high.
+ERROR,2024-06-21T10:35:00,Array out of bounds.
+INFO,2024-06-21T10:40:00,File uploaded successfully.
